@@ -12,4 +12,12 @@
   <> One Resistor that can light up an LED<br />
   <> One Bread Board<br /><br />
   
- #
+ # Creators
+  <> Adithya Nambiar(Toaster) <br />
+  <> Ariv Gupta<br /><br />
+  
+ # IDE 
+  We used Visual Studio for programming the python code. You can you any IDE in this case.<br />
+  <>Visual Studio Code<br />
+  <>Arduino IDE<br />
+ 
