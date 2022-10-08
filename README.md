@@ -16,7 +16,7 @@
   <> Ariv Gupta<br /><br />
   
  # IDE 
-  We used Visual Studio for programming the python code. You can you any IDE in this case.<br />
+  We used Visual Studio for programming the python code. You can you any suitable IDE in this case.<br />
   <>Visual Studio Code<br />
   <>Arduino IDE<br /><br />
  
