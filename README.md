@@ -1,4 +1,4 @@
-                                     <Open an app using Ultra Sonic Sensor in your PC> 
+                                         <Open an app using Ultra Sonic Sensor in your PC> 
 # information                                                  
   <> This is the Basic version. Updates will keep dropping. <br />
   <> Program: Python, Arduino Code<br />
