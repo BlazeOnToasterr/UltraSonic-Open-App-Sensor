@@ -19,5 +19,9 @@
  # IDE 
   We used Visual Studio for programming the python code. You can you any IDE in this case.<br />
   <>Visual Studio Code<br />
-  <>Arduino IDE<br />
+  <>Arduino IDE<br /><br />
  
+ # Contact
+  <>Contact Adithya(Toaster) on adithyamnambiar@gmail.com<br />
+  <>Contact Ariv Gupta on arivg123456789@gmail.com<br />
+  
