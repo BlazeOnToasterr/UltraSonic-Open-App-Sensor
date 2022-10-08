@@ -1,6 +1,5 @@
                                     <Open an app using Ultra Sonic Sensor in your PC> 
-# information                                                  
-  <> This is the Basic version. Updates will keep dropping. <br />
+# information
   <> Program: Python, Arduino Code<br />
   <> You have the right to download, modify, and share it to others. But, do not sell this program to someone else. <br /><br />
   
